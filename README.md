@@ -1,2 +1,2 @@
 # Info
-juste quelque mini projet
+juste des mini projets
