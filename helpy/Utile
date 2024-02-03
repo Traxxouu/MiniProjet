@@ -1,0 +1,4 @@
+View & Clean History on PowerShell : 
+VIEW -->  Get-DnsClientCache | Select-Object -Property Entry, Data | Sort-Object Entry | FT
+Clean --> ipconfig /flushdns
+ 
