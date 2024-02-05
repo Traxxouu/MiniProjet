@@ -22,4 +22,8 @@ Bienvenue dans le dépôt GitHub regroupant mes mini-projets, une collection div
 **6. Helpy**
    - Une collection de petits codes visant à vous aider dans divers domaines. Explorez ces mini-utilitaires pour faciliter votre parcours en programmation.
 
+## Voici mon compte PayPal pour rembourser les heures de sommeil perdues.👋
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/frtrax?country.x=FR&locale.x=fr_FR) 
+
+
 
